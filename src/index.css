@@ -10,3 +10,14 @@ body {
 .App {
   text-align: center;
 }
+
+.comment {
+  margin: 0 auto;
+  /* border: solid red; */
+  text-align: center;
+}
+
+.hideComments {
+  margin: 0 auto;
+  text-align: center;
+}
